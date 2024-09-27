@@ -1,6 +1,6 @@
 # To-Do App
 
-A Flutter-based To-Do app that helps users manage their tasks efficiently. The app provides a clean and intuitive interface, allowing users to create, read, update, and delete tasks with ease. 
+A Flutter-based To-Do app that helps users manage their task lists efficiently. The app provides a clean and intuitive interface, allowing users to create, read, update, and delete tasks with ease. 
 
 ## Features
 
@@ -18,34 +18,3 @@ A Flutter-based To-Do app that helps users manage their tasks efficiently. The a
 - **Provider**: For state management across the application.
 - **sqflite**: For local data storage, enabling persistent task management.
 
-## Installation
-
-To get started with the To-Do app, follow these steps:
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/mairovitzmario/todo_app_flutter.git
-Navigate into the project directory:
-
-bash
-Copy code
-cd todo_app
-Install dependencies:
-
-Make sure you have Flutter installed. Then, run:
-
-bash
-Copy code
-flutter pub get
-Run the app:
-
-Use the following command to run the app on your emulator or device:
-
-bash
-Copy code
-flutter run
-Usage
-Upon launching the app, you will see a list of existing tasks.
-Tap on a task to view details.
-Use the button to add a new task or update existing tasks.
